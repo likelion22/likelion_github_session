@@ -1,0 +1,43 @@
+h1{
+    background:black;
+    color:green ;
+}
+        
+p{
+    font-weight:bold;
+    font-size:3rem;
+}
+.red-color{
+    color:red;
+}
+
+#myid{
+    color:yellow;
+}
+
+@media(max-width: 768px) {
+    body { 
+        background-color: white; 
+        
+    } 
+}
+
+div{
+    border:1px solid black;
+    display:inline-block;
+    width:150px;
+    height:70px;
+    padding:10px 20px 5px 9px;
+    text-align:center;
+    border-radius:10px;
+}
+
+html,
+body{
+    min-height:1000px;
+}
+
+#box3{
+    right:20px;
+    postion:fixed;
+}
