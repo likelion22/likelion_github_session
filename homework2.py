@@ -17,3 +17,5 @@ if len(strStart)==3:
 else:
     print("틀렸습니다. 종료")
     sys.exit()
+    
+##깃변경사항 체크###
