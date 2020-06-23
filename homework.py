@@ -25,7 +25,7 @@ while True:
             print("졌습니다.")
         else:
             print("이겼습니다.")
-    elif strInput=="보":
+    elif strInput=="보": #
         if  mylist[i]=="바위":
             print("이겼습니다.")
         elif mylist[i]=="보":
